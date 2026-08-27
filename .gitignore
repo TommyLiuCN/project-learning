@@ -1,0 +1,22 @@
+# --- Rust ---
+/target/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# --- Java ---
+out/
+*.class
+
+# --- Go ---
+/bin/
+
+# --- Editors / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
